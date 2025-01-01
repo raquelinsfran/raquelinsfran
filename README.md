@@ -39,7 +39,7 @@
 </p>
 
 <!-- About Section -->
-<h2 align="left">
+<h2 align="center">
   🧑‍💻 Acerca de mí
 </h2>
 
