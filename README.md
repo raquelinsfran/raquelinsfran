@@ -67,7 +67,7 @@
 
 
 <!-- Top Repositories -->
-## Mis Repositorios Más Destacados
+## ✨ Mis Repositorios Más Destacados
 
 <p align="center">
 <a href="https://github.com/raquelinsfran/proyecto_individualPPY">
