@@ -94,12 +94,6 @@
 
 <p align="center">
   <a href="https://github.com/raquelinsfran">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=raquelinsfran&theme=radical&border=7F3FBF&background=0D1117" alt="Raquel's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/raquelinsfran">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raquelinsfran&theme=radical" alt="Raquel's GitHub Contribution"/>
   </a>
 </p>
