@@ -66,7 +66,12 @@
 </p>
 
 
-<!-- Top Repositories -->
+## ✨ Nuevo Proyecto: [Tereré Software](https://github.com/raquelinsfran/tereresoftware)
+
+Recientemente he subido un proyecto web desarrollado con Flask y MySQL para la gestión interna de una empresa. Esta aplicación permite realizar operaciones CRUD en clientes, proyectos, reportes y usuarios, todo centralizado en un dashboard intuitivo. Puedes ver el código fuente y más detalles en el repositorio.
+
+---
+
 ## ✨ Mis Repositorios Más Destacados
 
 <p align="center">
@@ -79,7 +84,9 @@
 <a href="https://github.com/raquelinsfran/devsec-hackathon">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=raquelinsfran&repo=devsec-hackathon&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="DevSec Hackathon" />
 </a>
- 
+<a href="https://github.com/raquelinsfran/tereresoftware">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=raquelinsfran&repo=tereresoftware&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Tereré Software" />
+</a>
 </p>
 
 <p align="center">
